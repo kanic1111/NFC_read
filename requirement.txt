@@ -1,0 +1,4 @@
+pyserial==3.4
+nfcpy==1.0.3
+paho-mqtt==1.5.0
+
